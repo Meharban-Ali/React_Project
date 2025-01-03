@@ -1,1 +1,1 @@
-I am starting React Basic Project
+I am learning Basic React and Tailwind css.
